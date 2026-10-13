@@ -1,0 +1,6 @@
+{
+  "name": "Parking Simulator 2D",
+  "description": "Um simulador de estacionamento 2D realista com física de direção, CNH viva, sistema de fantasmas e diálogos de NPCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
